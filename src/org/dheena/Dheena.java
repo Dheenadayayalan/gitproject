@@ -7,4 +7,8 @@ public class Dheena {
 	public void bike() {
 		System.out.println("duke");
 }
+
+	private void bus() {
+		System.out.println("scania");
 }
+	}
